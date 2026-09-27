@@ -1,0 +1,16 @@
+{
+  "thresholds": {
+    "india": 0.8,
+    "us": 0.8
+  },
+  "features": [
+    "name_levenshtein",
+    "name_jaro_winkler",
+    "name_token_jaccard",
+    "addr_token_jaccard",
+    "tfidf_cosine",
+    "phonetic_match",
+    "country_match",
+    "length_diff"
+  ]
+}

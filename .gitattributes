@@ -1,0 +1,4 @@
+# Git LFS configuration for large files (> 100 MB)
+output/candidate_pairs.tsv filter=lfs diff=lfs merge=lfs -text
+"Hybrid Ensemble Pipeline/output/candidate_pairs.tsv" filter=lfs diff=lfs merge=lfs -text
+*candidate_pairs.tsv filter=lfs diff=lfs merge=lfs -text

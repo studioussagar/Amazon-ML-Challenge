@@ -1,0 +1,12 @@
+# Amazon ML Challenge 2026 - Pinned Dependencies
+# Minimal requirements to run candidate blocking, feature extraction, model training, and test inference.
+
+polars==1.44.2
+pandas==3.0.5
+numpy==2.2.6
+scikit-learn==1.9.0
+lightgbm==4.7.0
+rapidfuzz==3.14.6
+joblib==1.5.3
+psutil==7.2.2
+scipy==1.17.1
